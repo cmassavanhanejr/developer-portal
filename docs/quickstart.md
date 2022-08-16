@@ -2,7 +2,8 @@
 id: quickstart
 title: Prerequisites and initial setup
 sidebar_label: Prerequisites and initial setup
-slug: /
+slug: /install
+displayed_sidebar: docs
 ---
 
 You can start developing a DHIS2 app with basic software development knowledge on OSX, Windows or Linux, some DHIS2 fundamentals knowledge, access to a DHIS2 instance and the DHIS command line interface (CLI) to perform most operations. In this introduction, you will install the prerequisites and optionally start up a local DHIS2 instance. Then you can follow the path of creating and connecting an app (either Web or Android, see Next Steps below).
@@ -73,4 +74,4 @@ For more info on how to correctly set up command line tools please check our [En
 Now that you havea DHIS2 instance you can put it to the test by developing DHIS2 apps.
 
 -   Create a DHIS2 [Web app](./quickstart/quickstart-web)
--   Create a DHIS2 [Android App](./quickstart/quickstart-android)
+-   Create a DHIS2 [Android App](./android/quickstart)

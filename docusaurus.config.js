@@ -23,6 +23,12 @@ module.exports = {
                     label: 'Docs',
                     position: 'left',
                 },
+                {
+                    to: 'docs/android',
+                    activeBasePath: 'docs/android',
+                    label: 'Android',
+                    position: 'left',
+                },
                 { to: 'blog', label: 'Blog', position: 'left' },
                 { to: 'events/webinars', label: 'Events', position: 'left' },
                 {
